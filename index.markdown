@@ -11,6 +11,16 @@ layout: default
 # TimeTrap: An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts
 
 
+## Team
+TimeTrap was developed by the following team of academic researchers:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ao Li](ao@wustl.edu)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Jinwen Wang](jinwen.wang@wustl.edu)**at Washington University in St. Louis   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sanjoy Baruah](baruah@wustl.edu)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bruno Sinopoli](bsinopoli@wustl.edu)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ning Zhang](zhang.ning@wustl.edu)** at Washington University in St. Louis 
+
+
 ## Architecture of TimeTrap
 
 Figure below is the implementation architecture of the tool TimeTrap. It corresponds three phases in TimeTrap: (i) Discovering Exploitable Temporal Displacement (ii) Task Execution Phase Breakdown and Interference Profiling (iii) Aggressor Workload Generation.
