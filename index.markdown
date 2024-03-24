@@ -62,5 +62,5 @@ There are additional case studies that are attached as supplementary material to
 ## More Materials
 
 
-The ___241___ timing-related software issues collected from GitHub could be found in the **[link] (https://github.com/WUSTL-CSPL/TimeTrap)**  in the format of table sheets.
+The ___241___ timing-related software issues collected from GitHub could be found in the **[link](https://github.com/WUSTL-CSPL/TimeTrap)**  in the format of table sheets.
 
