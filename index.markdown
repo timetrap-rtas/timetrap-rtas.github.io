@@ -15,7 +15,7 @@ layout: default
 TimeTrap was developed by the following team of academic researchers:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ao Li](ao@wustl.edu)** at Washington University in St. Louis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Jinwen Wang](jinwen.wang@wustl.edu)**at Washington University in St. Louis   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Jinwen Wang](jinwen.wang@wustl.edu)** at Washington University in St. Louis   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sanjoy Baruah](baruah@wustl.edu)** at Washington University in St. Louis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bruno Sinopoli](bsinopoli@wustl.edu)** at Washington University in St. Louis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ning Zhang](zhang.ning@wustl.edu)** at Washington University in St. Louis 
@@ -30,7 +30,10 @@ Figure below is the implementation architecture of the tool TimeTrap. It corresp
 
 ## Some Demo Videos
 
-P.S.: We have also recorded videos on real-world platforms. However, to avoid de-anonymization due to the real-world environments shown in the videos, we are only displaying the simulations in our demos at this moment.
+
+### Open Manipulator X
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/81qntUkt9p0?si=_LyK72fRldtGkpG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Autoware.Auto
@@ -54,8 +57,10 @@ There are additional case studies that are attached as supplementary material to
 
 <iframe src="pdf_pages/additonal_case_studies.pdf" style="width:1400px;height:1000px" frameborder="0"></iframe>
 
+
+
 ## More Materials
 
-The ___246___ timing-related software issues collected from GitHub will be open-sourced and presented in the format of table sheets.
 
-The tool, TimeTrap, will also be made open source here.
+The ___241___ timing-related software issues collected from GitHub could be found in the **[link] (https://github.com/WUSTL-CSPL/TimeTrap)**  in the format of table sheets.
+
